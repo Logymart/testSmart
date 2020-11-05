@@ -2,7 +2,9 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Document sans titre</title>
+	<link rel="stylesheet" href="style.css" type="text/css">
+	
+<title>Formation Git</title>
 </head>
 
 <body>

@@ -8,7 +8,7 @@
 </head>
 
 <body>
-	<h1>Git Organisation VCS </h1>
+	<h1>Git Organisation  </h1>
 	<h2>Versioning Control System</h2>
 	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt eius reiciendis doloremque rerum repellat! Maxime eum, vel, consectetur asperiores perferendis odit nam quasi voluptate deleniti illum laboriosam ea consequatur aperiam.</p>
 	<srcipt src="app.js"></srcipt>
